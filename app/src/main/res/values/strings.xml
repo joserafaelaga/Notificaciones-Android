@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name="boton">Lanzar notificación</string>
+</resources>
